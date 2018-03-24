@@ -4,21 +4,21 @@ This Program also can query all children of a node on the tree upto 1 level, whe
 
 Samplee Output<br> 
 
-No. of lines in the file are:267125
-Tree is built and contains 103837 number of nodes.
-time taken to construct the tree is 1 seconds
-All nodes of tree are ..
-103838
-Enter the node of whose children you want to extract..
-Carollia
-Finding children of  Carollia
+No. of lines in the file are:267125<br>
+Tree is built and contains 103837 number of nodes.<br>
+time taken to construct the tree is 1 seconds<br>
+All nodes of tree are ..<br>
+103838<br>
+Enter the node of whose children you want to extract..<br>
+Carollia<br>
+Finding children of  Carollia<br>
 
-sowelli
-brevicaudaPS2
-brevicauda
-brevicaudaPS1
-castanea
-subrufa
-perspicillata
+sowelli<br>
+brevicaudaPS2<br>
+brevicauda<br>
+brevicaudaPS1<br>
+castanea<br>
+subrufa<br>
+perspicillata<br>
 
 
